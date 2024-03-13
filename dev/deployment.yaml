@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: maniprabu/mynginx_test_image:v2-release
+        image: maniprabu/mynginx_test_image:v1-release
         ports:
         - containerPort: 80
